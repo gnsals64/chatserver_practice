@@ -1,5 +1,5 @@
-#include "client.h"
-#include "server.h"
+#include "chat.h"
+
 
 void	error_handling(char	*message)
 {
